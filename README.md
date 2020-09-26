@@ -1,6 +1,8 @@
 # StringTemplate
 Pattern matching a string against a template
 
+*Downlad jar v1.0 from release*
+
 import com.dataqlo.TemplateParser
 
     public static void main(String args[]){
