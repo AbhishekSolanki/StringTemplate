@@ -1,7 +1,7 @@
 # StringTemplate
 Pattern matching a string against a template
 
-*Downlad jar v1.0 from release*
+*Downlad jar v1.1 from release*
 
 import com.dataqlo.TemplateParser
 
