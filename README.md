@@ -1,5 +1,5 @@
 # StringTemplate
-Pattern matching a string against a template
+Pattern matching string against template
 
 *Downlad jar v1.1 from release*
 
